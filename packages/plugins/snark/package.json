@@ -61,7 +61,7 @@
     "embark-utils": "^5.3.0-nightly.17",
     "embarkjs-snark": "^5.3.0-nightly.17",
     "find-up": "4.1.0",
-    "glob": "7.1.4",
+    "glob": "7.1.6",
     "node-object-hash": "2.0.0",
     "snarkjs": "0.1.20"
   },
